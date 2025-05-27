@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 28,
+                      "duration": 37,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.135Z",
+                      "startTime": "2025-05-27T00:01:46.598Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -121,7 +121,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.448Z",
+                      "startTime": "2025-05-27T00:01:46.930Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -155,7 +155,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.462Z",
+                      "startTime": "2025-05-27T00:01:46.943Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,12 +184,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 8,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.468Z",
+                      "startTime": "2025-05-27T00:01:46.947Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -218,12 +218,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 16,
+                      "duration": 14,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.477Z",
+                      "startTime": "2025-05-27T00:01:46.957Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -252,7 +252,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 5,
+                      "duration": 4,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:70:21",
@@ -276,7 +276,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:33.494Z",
+                      "startTime": "2025-05-27T00:01:46.973Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -316,7 +316,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 25,
+                      "duration": 30,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:75:26",
@@ -340,7 +340,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:34.386Z",
+                      "startTime": "2025-05-27T00:01:47.863Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -380,7 +380,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 27,
+                      "duration": 28,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:80:21",
@@ -404,7 +404,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:35.530Z",
+                      "startTime": "2025-05-27T00:01:48.974Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -430,7 +430,7 @@
             },
             {
               "title": "hakkımızda, menümüz, galeri, iletişim bölümleri başlık ve açıklama olarak uygun etiketle ayrılmış mı?",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -443,48 +443,18 @@
                     {
                       "workerIndex": 3,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 22,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:87:27",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 27,
-                          "line": 87
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 85 |\u001b[39m     \u001b[36mfor\u001b[39m (\u001b[36mconst\u001b[39m title \u001b[36mof\u001b[39m sections) {\n \u001b[90m 86 |\u001b[39m       \u001b[36mconst\u001b[39m heading \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m`text=\"${title}\"`\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 87 |\u001b[39m       expect(heading)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 88 |\u001b[39m     }\n \u001b[90m 89 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 90 |\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 27,
-                            "line": 87
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n\n\u001b[0m \u001b[90m 85 |\u001b[39m     \u001b[36mfor\u001b[39m (\u001b[36mconst\u001b[39m title \u001b[36mof\u001b[39m sections) {\n \u001b[90m 86 |\u001b[39m       \u001b[36mconst\u001b[39m heading \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m`text=\"${title}\"`\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 87 |\u001b[39m       expect(heading)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 88 |\u001b[39m     }\n \u001b[90m 89 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 90 |\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:87:27\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 46,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:36.717Z",
+                      "startTime": "2025-05-27T00:01:50.114Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-463c5-uygun-etiketle-ayrılmış-mı-\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 27,
-                        "line": 87
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-090125ab3ef03a2e4d68",
@@ -505,10 +475,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 30,
+                      "duration": 5,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:93:20",
@@ -532,7 +502,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:37.822Z",
+                      "startTime": "2025-05-27T00:01:50.418Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -569,10 +539,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 51,
+                      "duration": 58,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:103:35",
@@ -596,7 +566,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:39.017Z",
+                      "startTime": "2025-05-27T00:01:51.253Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -633,10 +603,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 6,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 55,
+                      "duration": 48,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:110:28",
@@ -660,7 +630,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:40.174Z",
+                      "startTime": "2025-05-27T00:01:52.408Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -697,10 +667,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 7,
+                      "workerIndex": 6,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 27,
+                      "duration": 25,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:116:30",
@@ -726,7 +696,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:41.387Z",
+                      "startTime": "2025-05-27T00:01:53.538Z",
                       "annotations": [],
                       "attachments": [],
                       "errorLocation": {
@@ -757,10 +727,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 8,
+                      "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 25,
+                      "duration": 29,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:124:30",
@@ -786,7 +756,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:42.494Z",
+                      "startTime": "2025-05-27T00:01:54.825Z",
                       "annotations": [],
                       "attachments": [],
                       "errorLocation": {
@@ -817,10 +787,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 9,
+                      "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 29,
+                      "duration": 26,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:134:30",
@@ -846,7 +816,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:43.646Z",
+                      "startTime": "2025-05-27T00:01:55.915Z",
                       "annotations": [],
                       "attachments": [],
                       "errorLocation": {
@@ -877,10 +847,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 10,
+                      "workerIndex": 9,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 28,
+                      "duration": 29,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:141:30",
@@ -906,7 +876,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:44.784Z",
+                      "startTime": "2025-05-27T00:01:57.089Z",
                       "annotations": [],
                       "attachments": [],
                       "errorLocation": {
@@ -937,10 +907,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 11,
+                      "workerIndex": 10,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 52,
+                      "duration": 55,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:150:25",
@@ -964,7 +934,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-26T23:59:45.914Z",
+                      "startTime": "2025-05-27T00:01:58.196Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -995,11 +965,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-05-26T23:59:32.335Z",
-    "duration": 13979.573,
-    "expected": 5,
+    "startTime": "2025-05-27T00:01:45.814Z",
+    "duration": 12923.523,
+    "expected": 6,
     "skipped": 0,
-    "unexpected": 12,
+    "unexpected": 11,
     "flaky": 0
   }
 }
