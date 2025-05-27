@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 38,
+                      "duration": 47,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.123Z",
+                      "startTime": "2025-05-27T00:42:18.521Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -116,12 +116,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 10,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.439Z",
+                      "startTime": "2025-05-27T00:42:18.880Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -150,12 +150,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 3,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.452Z",
+                      "startTime": "2025-05-27T00:42:18.895Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,12 +184,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 6,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.457Z",
+                      "startTime": "2025-05-27T00:42:18.901Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -218,12 +218,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 13,
+                      "duration": 16,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.465Z",
+                      "startTime": "2025-05-27T00:42:18.910Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -238,7 +238,7 @@
             },
             {
               "title": "nav etiketi mainMenu class'ına sahip mi?",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -251,48 +251,18 @@
                     {
                       "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 4,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:70:21",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 21,
-                          "line": 70
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 68 |\u001b[39m   test(\u001b[32m\"nav etiketi mainMenu class'ına sahip mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 69 |\u001b[39m     \u001b[36mconst\u001b[39m nav \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"nav.mainMenu\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 70 |\u001b[39m     expect(nav)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 71 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 72 |\u001b[39m\n \u001b[90m 73 |\u001b[39m   test(\u001b[32m\"nav içinde 5 adet link var mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 21,
-                            "line": 70
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n\n\u001b[0m \u001b[90m 68 |\u001b[39m   test(\u001b[32m\"nav etiketi mainMenu class'ına sahip mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 69 |\u001b[39m     \u001b[36mconst\u001b[39m nav \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"nav.mainMenu\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 70 |\u001b[39m     expect(nav)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 71 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 72 |\u001b[39m\n \u001b[90m 73 |\u001b[39m   test(\u001b[32m\"nav içinde 5 adet link var mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:70:21\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 7,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:20.480Z",
+                      "startTime": "2025-05-27T00:42:18.928Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-b57f9-ainMenu-class-ına-sahip-mi-\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 21,
-                        "line": 70
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-5d62b4bd67c921d84739",
@@ -302,7 +272,7 @@
             },
             {
               "title": "nav içinde 5 adet link var mı?",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -313,50 +283,20 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 35,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:75:26",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 26,
-                          "line": 75
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 73 |\u001b[39m   test(\u001b[32m\"nav içinde 5 adet link var mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 74 |\u001b[39m     \u001b[36mconst\u001b[39m links \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$$(\u001b[32m\"nav.mainMenu a\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 75 |\u001b[39m     expect(links\u001b[33m.\u001b[39mlength)\u001b[33m.\u001b[39mtoBe(\u001b[35m5\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                          \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 76 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 77 |\u001b[39m\n \u001b[90m 78 |\u001b[39m   test(\u001b[32m\"banner görseli doğru şekilde eklenmiş mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 26,
-                            "line": 75
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n\n\u001b[0m \u001b[90m 73 |\u001b[39m   test(\u001b[32m\"nav içinde 5 adet link var mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 74 |\u001b[39m     \u001b[36mconst\u001b[39m links \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$$(\u001b[32m\"nav.mainMenu a\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 75 |\u001b[39m     expect(links\u001b[33m.\u001b[39mlength)\u001b[33m.\u001b[39mtoBe(\u001b[35m5\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                          \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 76 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 77 |\u001b[39m\n \u001b[90m 78 |\u001b[39m   test(\u001b[32m\"banner görseli doğru şekilde eklenmiş mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:75:26\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 13,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:21.457Z",
+                      "startTime": "2025-05-27T00:42:18.937Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-e2252--içinde-5-adet-link-var-mı-\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 26,
-                        "line": 75
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-00b3fd0b800008a02047",
@@ -366,7 +306,7 @@
             },
             {
               "title": "banner görseli doğru şekilde eklenmiş mi?",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -377,50 +317,20 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 35,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:80:21",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 21,
-                          "line": 80
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 78 |\u001b[39m   test(\u001b[32m\"banner görseli doğru şekilde eklenmiş mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 79 |\u001b[39m     \u001b[36mconst\u001b[39m img \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"img[src*='banner.jpg']\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 80 |\u001b[39m     expect(img)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 81 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 82 |\u001b[39m\n \u001b[90m 83 |\u001b[39m   test(\u001b[32m\"hakkımızda, menümüz, galeri, iletişim bölümleri başlık ve açıklama olarak uygun etiketle ayrılmış mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 21,
-                            "line": 80
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n\n\u001b[0m \u001b[90m 78 |\u001b[39m   test(\u001b[32m\"banner görseli doğru şekilde eklenmiş mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 79 |\u001b[39m     \u001b[36mconst\u001b[39m img \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"img[src*='banner.jpg']\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 80 |\u001b[39m     expect(img)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 81 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 82 |\u001b[39m\n \u001b[90m 83 |\u001b[39m   test(\u001b[32m\"hakkımızda, menümüz, galeri, iletişim bölümleri başlık ve açıklama olarak uygun etiketle ayrılmış mı?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:80:21\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 7,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:22.760Z",
+                      "startTime": "2025-05-27T00:42:18.952Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-f4d4c--doğru-şekilde-eklenmiş-mi-\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 21,
-                        "line": 80
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-2b16b950b5edb200d5f6",
@@ -441,15 +351,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 59,
+                      "duration": 51,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:24.060Z",
+                      "startTime": "2025-05-27T00:42:18.961Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -475,15 +385,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 6,
+                      "duration": 11,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:24.346Z",
+                      "startTime": "2025-05-27T00:42:19.015Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -509,15 +419,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 23,
+                      "duration": 37,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:24.354Z",
+                      "startTime": "2025-05-27T00:42:19.033Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -543,15 +453,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 14,
+                      "duration": 29,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:24.379Z",
+                      "startTime": "2025-05-27T00:42:19.073Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -566,7 +476,7 @@
             },
             {
               "title": "mainMenu nav stil: text-align, padding, font-size",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -577,46 +487,20 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 6,
-                      "error": {
-                        "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
-                        "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:315:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:116:30",
-                        "location": {
-                          "file": "eval at evaluate (:313:29), <anonymous>",
-                          "column": 7,
-                          "line": 1
-                        }
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "eval at evaluate (:313:29), <anonymous>",
-                            "column": 7,
-                            "line": 1
-                          },
-                          "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n\u001b[2m    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\u001b[22m\n\u001b[2m    at UtilityScript.evaluate (<anonymous>:315:16)\u001b[22m\n\u001b[2m    at UtilityScript.<anonymous> (<anonymous>:1:44)\u001b[22m\n\u001b[2m    at eval (eval at evaluate (:313:29), <anonymous>:1:7)\u001b[22m\n\u001b[2m    at UtilityScript.evaluate (<anonymous>:315:16)\u001b[22m\n\u001b[2m    at UtilityScript.<anonymous> (<anonymous>:1:44)\u001b[22m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:116:30\u001b[22m"
-                        },
-                        {
-                          "message": "Error: ENOENT: no such file or directory, open 'C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\eval at evaluate (:313:29), <anonymous>'"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 28,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:24.396Z",
+                      "startTime": "2025-05-27T00:42:19.104Z",
                       "annotations": [],
-                      "attachments": [],
-                      "errorLocation": {
-                        "file": "eval at evaluate (:313:29), <anonymous>",
-                        "column": 7,
-                        "line": 1
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-68933b264c09bce75ad4",
@@ -637,10 +521,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 58,
+                      "duration": 26,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"22\u001b[7m.5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"22px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"22\u001b[7m.5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"22px\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:128:30",
@@ -664,7 +548,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:25.306Z",
+                      "startTime": "2025-05-27T00:42:19.136Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -701,15 +585,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 55,
+                      "duration": 67,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:26.513Z",
+                      "startTime": "2025-05-27T00:42:20.469Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -724,7 +608,7 @@
             },
             {
               "title": "ul stil: margin ve line-height",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -735,50 +619,20 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 18,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:142:30",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 30,
-                          "line": 142
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 140 |\u001b[39m     \u001b[36mconst\u001b[39m ul \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"ul\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 141 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m ul)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 142 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginLeft)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 143 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginRight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 144 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"24px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 145 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 30,
-                            "line": 142
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n\n\u001b[0m \u001b[90m 140 |\u001b[39m     \u001b[36mconst\u001b[39m ul \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"ul\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 141 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m ul)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 142 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginLeft)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 143 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginRight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 144 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"24px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 145 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:142:30\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 19,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:26.806Z",
+                      "startTime": "2025-05-27T00:42:20.788Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-d1551--stil-margin-ve-line-height\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 30,
-                        "line": 142
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-db16ab22dde2dd6c730b",
@@ -799,15 +653,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 6,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 61,
+                      "duration": 16,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:15:27.931Z",
+                      "startTime": "2025-05-27T00:42:20.809Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -827,11 +681,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-05-27T00:15:19.270Z",
-    "duration": 9068.956999999999,
-    "expected": 11,
+    "startTime": "2025-05-27T00:42:17.303Z",
+    "duration": 3589.0729999999994,
+    "expected": 16,
     "skipped": 0,
-    "unexpected": 6,
+    "unexpected": 1,
     "flaky": 0
   }
 }

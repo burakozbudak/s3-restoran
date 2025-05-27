@@ -36,7 +36,7 @@ h1 {
 */
 p {
   font-size: 15px;
-  font-family: Arial, sans-serif;
+  font-family: Arial;
   padding: 10px;
   line-height: 22px;
   margin: 0;
@@ -52,8 +52,8 @@ p {
     - üst alt dış boşluğu 0px, sol sağ dış boşluğu 10px olsun
     - satır yüksekliği 24px olsun
 */
-u1l {
-  margin: 0 10px;
+ul {
+  margin: 0px 10px;
   line-height: 24px;
 }
 
