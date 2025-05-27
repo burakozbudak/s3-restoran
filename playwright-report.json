@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 41,
+                      "duration": 35,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:24.606Z",
+                      "startTime": "2025-05-27T05:31:11.989Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -116,12 +116,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 10,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.010Z",
+                      "startTime": "2025-05-27T05:31:12.238Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -150,12 +150,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 3,
+                      "duration": 2,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.023Z",
+                      "startTime": "2025-05-27T05:31:12.247Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,12 +184,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.028Z",
+                      "startTime": "2025-05-27T05:31:12.250Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -218,12 +218,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 16,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.037Z",
+                      "startTime": "2025-05-27T05:31:12.256Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -252,12 +252,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.056Z",
+                      "startTime": "2025-05-27T05:31:12.270Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -286,12 +286,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 11,
+                      "duration": 6,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.065Z",
+                      "startTime": "2025-05-27T05:31:12.276Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -320,12 +320,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.078Z",
+                      "startTime": "2025-05-27T05:31:12.284Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -354,12 +354,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 28,
+                      "duration": 18,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.087Z",
+                      "startTime": "2025-05-27T05:31:12.289Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -388,12 +388,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.118Z",
+                      "startTime": "2025-05-27T05:31:12.310Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -422,12 +422,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 22,
+                      "duration": 18,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.126Z",
+                      "startTime": "2025-05-27T05:31:12.316Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -456,12 +456,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 23,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.151Z",
+                      "startTime": "2025-05-27T05:31:12.336Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -490,12 +490,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 16,
+                      "duration": 13,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.180Z",
+                      "startTime": "2025-05-27T05:31:12.352Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -510,7 +510,7 @@
             },
             {
               "title": "<p> etiketlerinin stil kontrolü",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -523,48 +523,18 @@
                     {
                       "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 23,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"22\u001b[7m.5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"22px\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"22\u001b[7m.5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"22px\"\u001b[39m\n    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:128:30",
-                        "location": {
-                          "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 30,
-                          "line": 128
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 126 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontFamily\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"arial\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 127 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 128 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"22.5px\"\u001b[39m)\u001b[33m;\u001b[39m \u001b[90m// 15px * 1.5\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 129 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmargin)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"0px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 130 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 131 |\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 30,
-                            "line": 128
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"22\u001b[7m.5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"22px\"\u001b[39m\n\n\u001b[0m \u001b[90m 126 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontFamily\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"arial\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 127 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 128 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"22.5px\"\u001b[39m)\u001b[33m;\u001b[39m \u001b[90m// 15px * 1.5\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 129 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmargin)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"0px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 130 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 131 |\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js:128:30\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 15,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:25.198Z",
+                      "startTime": "2025-05-27T05:31:12.367Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "_error-context-0",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-1771a-etiketlerinin-stil-kontrolü\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\VICTUS\\Desktop\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 30,
-                        "line": 128
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-11806ef1b994cca70eb7",
@@ -585,15 +555,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 82,
+                      "duration": 11,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:26.178Z",
+                      "startTime": "2025-05-27T05:31:12.383Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -619,15 +589,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 25,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:26.589Z",
+                      "startTime": "2025-05-27T05:31:12.396Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -653,15 +623,15 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 30,
+                      "duration": 11,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-05-27T00:47:26.617Z",
+                      "startTime": "2025-05-27T05:31:12.409Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -681,11 +651,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-05-27T00:47:23.689Z",
-    "duration": 3059.356,
-    "expected": 16,
+    "startTime": "2025-05-27T05:31:11.221Z",
+    "duration": 1271.301,
+    "expected": 17,
     "skipped": 0,
-    "unexpected": 1,
+    "unexpected": 0,
     "flaky": 0
   }
 }
